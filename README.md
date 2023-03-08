@@ -4,6 +4,6 @@ Open the console of the web page to see the todo list
 
 ## Supported commands:
 ### new - Add a todo
-### list - List all the todo list
+### list - List all the Todos
 ### delete - Delete a specific Todo
 ### quit - quit the app
